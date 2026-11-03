@@ -1,0 +1,10 @@
+pandas
+numpy
+openpyxl
+statsmodels
+scikit-learn
+lightgbm
+prophet
+torch
+chronos-forecasting
+pytrends
